@@ -4,9 +4,9 @@ public class  Interface{
 
 		do{
 			System.out.println("---------------------------------");
-			System.out.println("| To Enter Admin Panel use    1 |");
-			System.out.println("| To Enter Student Panel use  2 |");
-			System.out.println("| To Exit Program use         3 |");
+			System.out.println("| Enter 1 to go to Admin Panel   |");
+			System.out.println("| Enter 2 to go to Student Panel |");
+			System.out.println("| Enter 3 to Exit the Program    |");
 			System.out.println("---------------------------------");
 			System.out.print("Enter the choice :");
 
