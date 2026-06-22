@@ -1,6 +1,6 @@
-<h1>Java Projects</h1>
+<h1><bold>Java Projects</bold></h1>
 <br>
-<p>This repository contains every java project I build from my BCA 1st Year till now.</p>
+<p><big>This repository contains every java project I build from my BCA 1st Year till now.</big></p>
 <ol>
   <li>Debit-Credit System</li>
   <li>Student- Management System</li>
